@@ -3,6 +3,9 @@
     flex-wrap:wrap;
     justify-content: center;
 }
+body {
+    background-color: rgb(255, 245, 222);
+}
 h1 {
     font-family: fantasy;
     font-size: 3rem;
