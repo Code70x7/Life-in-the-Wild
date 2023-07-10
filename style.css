@@ -31,3 +31,9 @@ img:hover {
 p {
     color:red;
 }
+#inline {
+    display: inline-block;
+}
+h3 {
+    font-size: 12px;
+}
